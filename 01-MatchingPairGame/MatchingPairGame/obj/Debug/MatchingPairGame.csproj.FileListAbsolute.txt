@@ -18,3 +18,13 @@ C:\Users\Hyago\Github\Csharp-Projetos-de-Aprendizagem\01-MatchingPairGame\Matchi
 C:\Users\Hyago\Github\Csharp-Projetos-de-Aprendizagem\01-MatchingPairGame\MatchingPairGame\obj\Debug\MatchingPairGame.csproj.CoreCompileInputs.cache
 C:\Users\Hyago\Github\Csharp-Projetos-de-Aprendizagem\01-MatchingPairGame\MatchingPairGame\obj\Debug\MatchingPairGame.exe
 C:\Users\Hyago\Github\Csharp-Projetos-de-Aprendizagem\01-MatchingPairGame\MatchingPairGame\obj\Debug\MatchingPairGame.pdb
+C:\Users\Hyago\Github\Csharp-Learning-Projects\01-MatchingPairGame\MatchingPairGame\bin\Debug\MatchingPairGame.exe.config
+C:\Users\Hyago\Github\Csharp-Learning-Projects\01-MatchingPairGame\MatchingPairGame\bin\Debug\MatchingPairGame.exe
+C:\Users\Hyago\Github\Csharp-Learning-Projects\01-MatchingPairGame\MatchingPairGame\bin\Debug\MatchingPairGame.pdb
+C:\Users\Hyago\Github\Csharp-Learning-Projects\01-MatchingPairGame\MatchingPairGame\obj\Debug\MatchingPairGame.csproj.AssemblyReference.cache
+C:\Users\Hyago\Github\Csharp-Learning-Projects\01-MatchingPairGame\MatchingPairGame\obj\Debug\MatchingPairGame.Form1.resources
+C:\Users\Hyago\Github\Csharp-Learning-Projects\01-MatchingPairGame\MatchingPairGame\obj\Debug\MatchingPairGame.Properties.Resources.resources
+C:\Users\Hyago\Github\Csharp-Learning-Projects\01-MatchingPairGame\MatchingPairGame\obj\Debug\MatchingPairGame.csproj.GenerateResource.cache
+C:\Users\Hyago\Github\Csharp-Learning-Projects\01-MatchingPairGame\MatchingPairGame\obj\Debug\MatchingPairGame.csproj.CoreCompileInputs.cache
+C:\Users\Hyago\Github\Csharp-Learning-Projects\01-MatchingPairGame\MatchingPairGame\obj\Debug\MatchingPairGame.exe
+C:\Users\Hyago\Github\Csharp-Learning-Projects\01-MatchingPairGame\MatchingPairGame\obj\Debug\MatchingPairGame.pdb
