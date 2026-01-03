@@ -1,0 +1,14 @@
+C:\Projetos\Matrix\Matrix\bin\Debug\net8.0\Matrix.exe
+C:\Projetos\Matrix\Matrix\bin\Debug\net8.0\Matrix.deps.json
+C:\Projetos\Matrix\Matrix\bin\Debug\net8.0\Matrix.runtimeconfig.json
+C:\Projetos\Matrix\Matrix\bin\Debug\net8.0\Matrix.dll
+C:\Projetos\Matrix\Matrix\bin\Debug\net8.0\Matrix.pdb
+C:\Projetos\Matrix\Matrix\obj\Debug\net8.0\Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Matrix\Matrix\obj\Debug\net8.0\Matrix.AssemblyInfoInputs.cache
+C:\Projetos\Matrix\Matrix\obj\Debug\net8.0\Matrix.AssemblyInfo.cs
+C:\Projetos\Matrix\Matrix\obj\Debug\net8.0\Matrix.csproj.CoreCompileInputs.cache
+C:\Projetos\Matrix\Matrix\obj\Debug\net8.0\Matrix.dll
+C:\Projetos\Matrix\Matrix\obj\Debug\net8.0\refint\Matrix.dll
+C:\Projetos\Matrix\Matrix\obj\Debug\net8.0\Matrix.pdb
+C:\Projetos\Matrix\Matrix\obj\Debug\net8.0\Matrix.genruntimeconfig.cache
+C:\Projetos\Matrix\Matrix\obj\Debug\net8.0\ref\Matrix.dll
